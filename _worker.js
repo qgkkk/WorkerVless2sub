@@ -11,7 +11,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://dy.qq987.link/ip.txt?token=sub' //可参考内容格式 自行搭建。
+	'https://qgkkk.github.io/cat/addressesapi.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 2;//速度下限
