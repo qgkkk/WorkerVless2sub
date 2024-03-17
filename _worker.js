@@ -14,7 +14,7 @@ let addressesapi = [
 	'https://dy.qq987.link/ip.txt?token=sub' //可参考内容格式 自行搭建。
 ];
 
-let DLS = 6;//速度下限
+let DLS = 2;//速度下限
 let addressescsv = [
 	'https://dy.qq987.link/addressescsv.csv?token=sub' //iptest测速结果文件。
 ];
